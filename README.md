@@ -1,4 +1,4 @@
-<p align="center">
+
   <img width="800" height="300" src="https://envs.sh/QZi.png" alt="Material Bread logo">
 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
-</p>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXOG)](https://github.com/anuraghazra/github-readme-stats)
 
