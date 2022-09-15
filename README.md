@@ -7,9 +7,19 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 
+<hr>
 
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=TXOG&show_icons=true&locale=en&theme=dark" alt="t3dium" />
+</span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TXOG)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=TXOG&show_icons=true&locale=en&layout=compact&theme=dark" alt="t3dium" />
+</span>
+
+<hr>
+
+<p> <img src="https://komarev.com/ghpvc/?username=TXOG&label=Profile%20views&color=0e75b6&style=flat" alt="TXOG" /> </p>
 
 # Thanks for stopping by
 
