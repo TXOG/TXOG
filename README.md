@@ -1,6 +1,5 @@
-
-  <img width="800" height="300" src="https://envs.sh/QZi.png" alt="Material Bread logo">
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TXOG&theme=github_dark)
+ 
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
