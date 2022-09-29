@@ -18,7 +18,6 @@
 
 <hr>
 
-<p> <img src="https://komarev.com/ghpvc/?username=TXOG&label=Profile%20views&color=0e75b6&style=flat" alt="TXOG" /> </p>
 
 # Thanks for stopping by
 
