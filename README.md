@@ -16,6 +16,8 @@
 <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=TXOG&show_icons=true&locale=en&layout=compact&theme=dark" alt="t3dium" />
 </span>
 
+<p> <img src="https://komarev.com/ghpvc/?username=TXOG&label=Profile%20views&color=0e75b6&style=flat" alt="TXOG" /> </p>
+
 <hr>
 
 
