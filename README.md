@@ -25,5 +25,4 @@
 
 - 🔭 I’m currently working on my A Level exams
 - 📫 How to reach me: [thomaskerby2004@gmail.com](mailto:thomaskerby2004@gmail.com)
-- 😄 Pronouns: He/Him
 
