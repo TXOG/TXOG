@@ -24,5 +24,5 @@
 # Thanks for stopping by
 
 - 🔭 I’m currently working on my A Level exams
-- 📫 How to reach me: [thomaskerby2004@gmail.com](mailto:thomaskerby2004@gmail.com)
+- 📫 How to reach me: [apps@fluorite.eu.org](mailto:apps@fluorite.eu.org)
 
